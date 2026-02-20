@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:3B82F6&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:A855F7,100:60A5FA&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Malik;Full-Stack+Developer;Frappe+Framework+Expert;AI+Agent+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Malik;Full-Stack+Developer;Frappe+Framework+Expert;AI+Agent+Builder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -37,7 +37,7 @@
   </a>
   &nbsp;
   <a href="mailto:deepakmalik982@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -46,13 +46,13 @@
 ### 🧠 AI & Intelligent Agents
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agno_Framework-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Agno Framework"/>
-  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-A78BFA?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/OpenAI-4F46E5?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-3B82F6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Vector_DB-60A5FA?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB"/>
+  <img src="https://img.shields.io/badge/Agno_Framework-9333EA?style=for-the-badge&logo=probot&logoColor=white" alt="Agno Framework"/>
+  <img src="https://img.shields.io/badge/AI_Agents-A855F7?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-C084FC?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-818CF8?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/OpenAI-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-60A5FA?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Vector_DB-38BDF8?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB"/>
 </p>
 
 <br/>
@@ -69,8 +69,8 @@
 ### ⚙️ Frappe Framework & ERPNext
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frappe_Framework-3B82F6?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe"/>
-  <img src="https://img.shields.io/badge/ERPNext-6366F1?style=for-the-badge&logo=erpnext&logoColor=white" alt="ERPNext"/>
+  <img src="https://img.shields.io/badge/Frappe_Framework-60A5FA?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe"/>
+  <img src="https://img.shields.io/badge/ERPNext-818CF8?style=for-the-badge&logo=erpnext&logoColor=white" alt="ERPNext"/>
 </p>
 
 <br/>
@@ -131,4 +131,4 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:6D28D9&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:A855F7,100:9333EA&height=80&section=footer"/>
